@@ -1,0 +1,19 @@
+{
+  "name": "vue-project-seed",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/stvnksslr/vue-project-seed.git"
+  },
+  "author": "skessler",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/stvnksslr/vue-project-seed/issues"
+  },
+  "homepage": "https://github.com/stvnksslr/vue-project-seed#readme"
+}
