@@ -1,10 +1,9 @@
 {
   "name": "vue-project-seed",
   "version": "1.0.0",
-  "description": "",
+  "description": "Project seed for the vueJS web framework",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
