@@ -1,18 +1,27 @@
 {
   "name": "vue-project-seed",
   "version": "1.0.0",
-  "description": "Project seed for the vueJS web framework",
+  "description": "",
   "main": "index.js",
   "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/stvnksslr/vue-project-seed.git"
   },
-  "author": "skessler",
+  "author": "",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/stvnksslr/vue-project-seed/issues"
   },
-  "homepage": "https://github.com/stvnksslr/vue-project-seed#readme"
+  "homepage": "https://github.com/stvnksslr/vue-project-seed#readme",
+  "dependencies": {
+    "vue": "^2.4.3"
+  },
+  "devDependencies": {
+    "eslint": "^4.6.1",
+    "gulp": "^3.9.1",
+    "webpack": "^3.5.6"
+  }
 }
